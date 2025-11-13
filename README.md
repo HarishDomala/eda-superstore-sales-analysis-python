@@ -94,12 +94,15 @@ Office Supplies → High order volume
 Furniture → Lower margins due to discounts
 
 ### 📂 Project Structure
+```
 Superstore-EDA/
 │
 ├── EDA Superstore.ipynb      # Main analysis notebook
-├── superstore.csv            # Dataset
-├── visuals/                  # Exported plots
+├── superstore.csv            # Dataset (optional or external link)
+├── requirements.txt          # Python dependencies
+├── visuals/                  # Exported plots (heatmap, line chart, bivariate chart)
 └── README.md                 # Documentation
+```
 
 ### 🧠 Skills Demonstrated
 Exploratory Data Analysis (EDA)
