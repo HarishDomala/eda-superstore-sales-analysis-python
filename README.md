@@ -115,13 +115,9 @@ Launch Jupyter Notebook:
 
  📓 Jupyter Notebook
 
-Click below to view or download the complete EDA:
+    Click below to view or download the complete EDA:
 
-  --> [`EDA Superstore.ipynb`](EDA Superstore.ipynb)
-
-  --> [Open Notebook](`EDA Superstore.ipynb`)
-
-  [`EDA Superstore.ipynb`](EDA%20Superstore.ipynb)
+    --> [`EDA Superstore.ipynb`](EDA%20Superstore.ipynb)
 
   
 ## 📸 Visuals
