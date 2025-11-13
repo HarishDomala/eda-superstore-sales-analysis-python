@@ -6,24 +6,47 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on the Super
 ### 📌 Tools & Technologies Used
 Python
 
-Pandas, NumPy
-
-Matplotlib, Seaborn
+  - Pandas
+    
+  - NumPy
+    
+  - Seaborn
+    
+  - Matplotlib
 
 Jupyter Notebook
 
 ### 📁 Dataset Information
 The dataset contains 10,000+ sales records with fields including:
 
-Order Date, Ship Date
-
-Region, State, City
-
-Customer Segment
-
-Category & Sub-Category
-
-Sales, Profit, Discount, Quantity
+  - Order Date
+    
+  - Ship Date
+    
+  - Region
+    
+  - State
+    
+  - City
+    
+  - Customer Segment
+    
+  - Category
+    
+  - Sub-Category
+    
+  - Auto Reorder
+    
+  - Payment Mode
+    
+  - Sales
+    
+  - Profit
+    
+  - Discount
+    
+  - Quantity
+More....
 
 ### 🎯 Project Objectives
 Clean and preprocess the dataset
@@ -38,60 +61,65 @@ Understand discount impact on sales and profit
 
 Visualize trends & business indicators
 
-### 🔍 EDA Workflow
+### 🔍 EDA Workflow 🎴
+
 Data Cleaning
-Removed duplicates
 
-Checked for null values
-
-Converted date columns
-
-Standardized data types
+  - Removed duplicates
+    
+  - Checked for null values
+    
+  - Converted date columns
+    
+  - Standardized data types
 
 Exploratory Analysis
-Summary statistics
 
-Segment analysis
+  - Segment analysis
+    
+  - Summary statistics
+    
+  - Category/Subcategory patterns
+    
+  - Region-wise performance
+    
+  - Discount vs profit study
 
-Category/Subcategory patterns
+Visualizations 📊
 
-Region-wise performance
-
-Discount vs profit study
-
-Visualizations
 Created using Matplotlib and Seaborn:
+  - Bar charts
+    
+  - Box plots
+  
+  - Histograms
+  
+  - Heatmaps
+  
+  - Trend lines
 
-Bar charts
-
-Box plots
-
-Histograms
-
-Heatmaps
-
-Trend lines
+  - Pie Charts
 
 ### 📈 Key Findings
 📍 1. Home Office Segment Most Profitable
 
-The Home Office segment showed the highest profit-to-sales ratio, indicating better margins compared to Consumer and Corporate segments.
+    The Home Office segment showed the highest profit-to-sales ratio, indicating better margins compared to Consumer and Corporate segments.
 
 📍 2. South Region Is the Top Performer
 
-The South region contributed ~27% of total profit, establishing it as the strongest market.
+    The South region contributed ~27% of total profit, establishing it as the strongest market.
 
 📍 3. High Discounts Reduce Profitability
 
-Steep discounts significantly lowered margins, especially in Technology and Office Supplies.
+    Steep discounts significantly lowered margins, especially in Technology and Office Supplies.
 
 📍 4. Category Trends
 
-Technology → Highest revenue
+  - Technology → Highest revenue
+  
+  - Office Supplies → High order volume
 
-Office Supplies → High order volume
-
-Furniture → Lower margins due to discounts
+  - Furniture → Lower margins due to discounts
 
 ### 📂 Project Structure
 ```
