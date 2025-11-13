@@ -33,29 +33,29 @@ The dataset contains 10,000+ sales records with fields including:
 More....
 
 ### 🎯 Project Objectives
-Clean and preprocess the dataset
-Perform detailed exploratory data analysis
-Identify sales & profit patterns across segments
-Analyze regional and category-level performance
-Understand discount impact on sales and profit
-Visualize trends & business indicators
+- Clean and preprocess the dataset
+- Perform detailed exploratory data analysis
+- Identify sales & profit patterns across segments
+- Analyze regional and category-level performance
+- Understand discount impact on sales and profit
+- Visualize trends & business indicators
 
-### 🔍 EDA Workflow 🎴
+### 🔍 EDA Workflow
 
-Data Cleaning
+🫧 Data Cleaning 
   - Removed duplicates   
   - Checked for null values   
   - Converted date columns    
   - Standardized data types
 
-Exploratory Analysis
+🩺 Exploratory Analysis
   - Segment analysis    
   - Summary statistics    
   - Category/Subcategory patterns    
   - Region-wise performance    
   - Discount vs profit study
 
-Visualizations 📊
+📊 Visualizations
 
 Created using Matplotlib and Seaborn:
   - Bar charts    
@@ -87,17 +87,17 @@ Created using Matplotlib and Seaborn:
 ```
 Superstore-EDA/
 │
-├── EDA Superstore.ipynb      # Main analysis notebook
-├── superstore.csv            # Dataset
-├── requirements.txt          # Python dependencies
-├── visuals/                  # Exported plots (heatmap, line chart, bivariate chart)
-└── README.md                 # Documentation
+├── notebook/
+|    └── EDA Superstore.ipynb                      # Main analysis notebook
+├── data/
+|    └──Superstore_Management_System.csv           # Dataset
+├── requirements.txt                               # Python dependencies
+├── visuals/                                       # Exported plots (heatmap, line chart, bivariate chart)
+└── README.md                                      # Documentation
 ```
 Click Below ⬇️ to download CSV file.
 
-- Click Click Below ⬇️ to download CSV file.
-
-- [Superstore_Management_System.csv](Superstore_Management_System.csv)
+- Click [Superstore_Management_System.csv](Superstore_Management_System.csv)
 
 
 ### 🧠 Skills Demonstrated
@@ -117,9 +117,7 @@ Install dependencies:
 
   --> pip install -r requirements.txt
 
-Launch Jupyter Notebook:
-
-📓 Jupyter Notebook
+Launch Jupyter Notebook 📓
 
   Click below to view or download the complete EDA:
 
