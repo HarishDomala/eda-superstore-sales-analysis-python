@@ -127,18 +127,17 @@ jupyter notebook
 
 Open EDA Superstore.ipynb and run all cells.
 
-### 📸 Visuals
-Bivariate
+## 📸 Visuals
 
-visuals/Bivariate_pie_bar.pdf
+### 📊 Bivariate Pie + Bar Chart
+[View PDF](visuals/Bivariate_pie_bar.pdf)
 
-Line chart
+### 📈 Line Chart
+[View PDF](visuals/line_chart.pdf)
 
-visuals/line_chart.pdf
+### 🔥 Heatmap
+[View PDF](visuals/heatmap_chart.pdf)
 
-Heatmap
-
-visuals/heatmap_chart.pdf
 
 ### 📬 Contact
 Harish Domala 🔗 GitHub: https://github.com/HarishDomala
