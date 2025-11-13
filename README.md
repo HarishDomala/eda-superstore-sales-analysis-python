@@ -9,6 +9,7 @@ Python
   - NumPy
   - Seaborn
   - Matplotlib
+
 Jupyter Notebook
 
 ### 📁 Dataset Information
@@ -28,6 +29,7 @@ The dataset contains 10,000+ sales records with fields including:
   - Profit
   - Discount
   - Quantity
+
 More....
 
 ### 🎯 Project Objectives
