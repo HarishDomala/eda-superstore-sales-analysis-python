@@ -128,7 +128,14 @@ jupyter notebook
 Open EDA Superstore.ipynb and run all cells.
 
 ### 📸 Visuals
-Sales Distribution Profit Heatmap
+Bivariate
+visuals/Bivariate_pie_bar.pdf
+
+Line chart
+visuals/line_chart.pdf
+
+Heatmap
+visuals/heatmap_chart.pdf
 
 ### 📬 Contact
 Harish Domala 🔗 GitHub: https://github.com/HarishDomala
