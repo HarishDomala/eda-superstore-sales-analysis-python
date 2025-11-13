@@ -113,9 +113,11 @@ Install dependencies:
 
 Launch Jupyter Notebook:
 
-  --> jupyter notebook
+ 📓 Jupyter Notebook
 
-  --> Open EDA Superstore.ipynb and run all cells.
+Click below to view or download the complete EDA:
+
+  --> [`EDA_Superstore.ipynb`](notebooks/EDA_Superstore.ipynb)
 
 ## 📸 Visuals
 
