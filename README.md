@@ -119,7 +119,7 @@ Click below to view or download the complete EDA:
 
   --> [`EDA Superstore.ipynb`](notebooks/EDA_Superstore.ipynb)
 
-  --> [`EDA Superstore.ipynb`]
+  --> [Open Notebook](`EDA Superstore.ipynb`)
   
 ## 📸 Visuals
 
