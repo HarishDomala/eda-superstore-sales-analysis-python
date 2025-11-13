@@ -129,12 +129,15 @@ Open EDA Superstore.ipynb and run all cells.
 
 ### 📸 Visuals
 Bivariate
+
 visuals/Bivariate_pie_bar.pdf
 
 Line chart
+
 visuals/line_chart.pdf
 
 Heatmap
+
 visuals/heatmap_chart.pdf
 
 ### 📬 Contact
