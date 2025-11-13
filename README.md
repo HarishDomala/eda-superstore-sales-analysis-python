@@ -1,4 +1,4 @@
-# eda-superstore-sales-analysis-python
+# EDA-superstore-sales-analysis-python
 
 ### 🛒 Superstore Sales Analysis – Exploratory Data Analysis (EDA)
 This project performs an end-to-end Exploratory Data Analysis (EDA) on the Superstore Sales dataset to understand sales performance, profit distribution, customer segments, and regional trends. The analysis is done using Python, leveraging powerful data-analysis and visualization libraries.
