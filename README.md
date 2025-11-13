@@ -88,11 +88,17 @@ Created using Matplotlib and Seaborn:
 Superstore-EDA/
 │
 ├── EDA Superstore.ipynb      # Main analysis notebook
-├── superstore.csv            # Dataset (optional or external link)
+├── superstore.csv            # Dataset
 ├── requirements.txt          # Python dependencies
 ├── visuals/                  # Exported plots (heatmap, line chart, bivariate chart)
 └── README.md                 # Documentation
 ```
+Click Below ⬇️ to download CSV file.
+
+- Click Click Below ⬇️ to download CSV file.
+
+- [Superstore_Management_System.csv](Superstore_Management_System.csv)
+
 
 ### 🧠 Skills Demonstrated
 Exploratory Data Analysis (EDA)
@@ -117,7 +123,7 @@ Launch Jupyter Notebook:
 
   Click below to view or download the complete EDA:
 
-  - --> [`EDA Superstore.ipynb`](EDA%20Superstore.ipynb)
+  - Click [`EDA Superstore.ipynb`](EDA%20Superstore.ipynb)
 
   
 ## 📸 Visuals
