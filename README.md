@@ -120,7 +120,6 @@ Launch Jupyter Notebook:
 ## 📸 Visuals
 
 📊 Bivariate Pie + Bar Chart
-
   --> [View PDF](visuals/Bivariate_pie_bar.pdf)
 
 📈 Line Chart
